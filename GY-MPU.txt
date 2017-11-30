@@ -1,0 +1,4 @@
+http://www.instructables.com/id/MPU6050-Arduino-6-Axis-Accelerometer-Gyro-GY-521-B/
+
+https://github.com/jrowberg/i2cdevlib/zipball/master
+
